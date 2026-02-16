@@ -1,0 +1,489 @@
+correos:
+  - id: 1
+    from: juan.perez@example.com
+    to: maria.lopez@example.com
+    subject: Re Confirmación de solicitud
+    date: Thu, 17 Feb 2026 10:23:42 +0000
+    body: |
+      Este es el cuerpo del mensaje de prueba pqr.
+      Por favor, confirma que la solicitud ha sido procesada correctamente.
+
+  - id: 2
+    from: maria.lopez@example.com
+    to: juan.perez@example.com
+    subject: Solicitud de información sobre demanda
+    date: Fri, 18 Feb 2026 12:10:50 +0000
+    body: |
+      Hola Juan,
+
+      Podrías enviarme los detalles de la solicitud de la demanda que presentamos ayer.
+      Necesito saber más sobre el proceso de la tutela.
+
+      Saludos,
+      Maria
+
+  - id: 3
+    from: juan.perez@example.com
+    to: maria.lopez@example.com
+    subject: Re Reclamo sobre demanda de servicio
+    date: Sat, 19 Feb 2026 08:45:12 +0000
+    body: |
+      Estimada Maria,
+
+      Lamentamos los inconvenientes que has tenido con nuestro demanda   servicio. 
+      Ya hemos iniciado el proceso para resolver tu reclamo y nos pondremos en contacto contigo en breve.
+
+      Saludos cordiales,
+      Juan Pérez
+
+  - id: 4
+    from: soporte@example.com
+    to: cliente@example.com
+    subject: Notificación de cambio de horario de atención
+    date: Mon, 21 Feb 2026 09:00:00 +0000
+    body: |
+      Estimado Cliente,
+
+      Queremos informarle que, debido a ajustes operativos, nuestros horarios de atención cambiarán a partir del próximo lunes. 
+      El nuevo horario será de 9:00 AM a 6:00 PM.
+
+      Agradecemos su comprensión.
+
+      Atentamente,
+      El equipo de soporte
+
+  - id: 5
+    from: reservas@example.com
+    to: cliente@example.com
+    subject: Confirmación de su reserva
+    date: Tue, 22 Feb 2026 15:30:25 +0000
+    body: |
+      Estimado Cliente,
+
+      Su reserva ha sido confirmada con éxito. A continuación, los detalles:
+
+      - Fecha de entrada: 25 de febrero de 2026
+      - Fecha de salida: 28 de febrero de 2026
+      - Número de personas: 2
+
+      Le esperamos en nuestra propiedad. Si tiene alguna consulta, no dude en contactarnos.
+
+      Atentamente,
+      El equipo de reservas
+
+  - id: 6
+    from: facturacion@example.com
+    to: cliente@example.com
+    subject: Recordatorio de pago pendiente por demanda
+    date: Wed, 23 Feb 2026 10:00:05 +0000
+    body: |
+      Estimado cliente,
+
+      Le recordamos que tiene una demanda por falta de pago pendiente por el monto de $150.00 que vence el 25 de febrero de 2026.
+      Asegúrese de realizar el pago antes de la fecha indicada para evitar cargos adicionales.
+
+      Gracias por su atención.
+
+      Atentamente,
+      Departamento de Facturación
+
+  - id: 7
+    from: ventas@example.com
+    to: cliente@example.com
+    subject: Gracias por tu compra
+    date: Thu, 24 Feb 2026 16:45:30 +0000
+    body: |
+      Hola,
+
+      ¡Gracias por tu compra en nuestra tienda! Tu pedido ha sido procesado y será enviado en las próximas 24 horas. 
+      A continuación, los detalles de tu compra:
+
+      - Producto: Cámara digital
+      - Precio: $300.00
+      - Método de envío: Envío estándar
+
+      Gracias por confiar en nosotros. 
+
+      Saludos,
+      El equipo de ventas
+
+  - id: 8
+    from: eventos@example.com
+    to: cliente@example.com
+    subject: Invitación a evento especial
+    date: Fri, 25 Feb 2026 11:20:10 +0000
+    body: |
+      Estimado cliente,
+
+      Nos complace invitarle a nuestro evento especial que se celebrará el 5 de marzo de 2026, donde podrás disfrutar de 
+      una experiencia única. La cita es en nuestro auditorio a las 7:00 PM.
+
+      Confirmar asistencia a este correo o al teléfono 555-1234.
+
+      ¡Esperamos contar con tu presencia!
+
+      Saludos cordiales,
+      El equipo de eventos
+
+  - id: 9
+    from: notificaciones@example.com
+    to: usuario@example.com
+    subject: Notificación de actualización del sistema
+    date: Mon, 28 Feb 2026 14:00:00 +0000
+    body: |
+      Estimado usuario,
+
+      Queremos informarle que el sistema  estará en mantenimiento desde las 2:00 AM hasta las 4:00 AM el día 2 de marzo de 2026. Durante este tiempo, no podrá acceder a su cuenta.
+
+      Agradecemos su comprensión.
+
+      Atentamente,
+      El equipo de soporte técnico
+
+  - id: 10
+    from: citas@example.com
+    to: cliente@example.com
+    subject: Cancelación de cita
+    date: Tue, 1 Mar 2026 09:30:20 +0000
+    body: |
+      Estimado cliente,
+
+      Lamentablemente, su cita programada para el 3 de marzo de 2026 ha sido cancelada debido a imprevistos.
+      Le pedimos disculpas por los inconvenientes causados. Además, la demanda que teníamos programada le invitamos a reprogramar su cita a la brevedad.
+
+      Atentamente,
+      El equipo de citas
+  - id: 11
+    from: maria.lopez@example.com
+    to: juan.perez@example.com
+    subject: Solicitud de información sobre tutela
+    date: Fri, 18 Feb 2026 12:10:50 +0000
+    body: |
+      Hola Juan,
+      
+      Podrías enviarme los detalles de la solicitud de la tutela que presentamos ayer.
+      Necesito saber más sobre el proceso de la tutela.
+
+      Saludos,
+      Maria
+
+  - id: 12
+    from: juan.perez@example.com
+    to: maria.lopez@example.com
+    subject: Reenvío Solicitud de información sobre tutela
+    date: Sat, 19 Feb 2026 14:00:12 +0000
+    body: |
+      Estimada Maria,
+      
+      Te reenvío el correo que me enviaste sobre la solicitud de la pqr para que lo tengas a mano.
+      
+      --------------------------------------------------------
+      **Reenvío**: Solicitud de información sobre tutela
+      --------------------------------------------------------
+      Hola Juan,
+      
+      Podrías enviarme los correos de la solicitud de la tutela que presentamos ayer para poder montar una .
+      Necesito saber más sobre el proceso de la tutela.
+
+      Saludos,
+      Maria
+
+      correos:
+  - id: 13
+    from: abogado@juridico.com
+    to: cliente@example.com
+    subject: Actualización de su caso de tutela
+    date: Mon, 5 Mar 2026 09:00:00 +0000
+    body: |
+      Estimado cliente,
+
+      Le informamos que hemos avanzado en el proceso de su caso de tutela. Ya hemos recibido la respuesta de la corte y se espera una resolución para el próximo mes.
+
+      Agradecemos su paciencia.
+
+      Atentamente,
+      Departamento Jurídico
+
+  - id: 14
+    from: cliente@example.com
+    to: abogado@juridico.com
+    subject: Pregunta sobre mi caso de demanda
+    date: Tue, 6 Mar 2026 11:00:00 +0000
+    body: |
+      Estimado abogado,
+
+      Quería saber en qué estado se encuentra la demanda que interpusimos el mes pasado contra la empresa XYZ. Agradecería una actualización.
+
+      Saludos cordiales,
+      Cliente
+
+  - id: 15
+    from: tribunal@corte.com
+    to: abogado@juridico.com
+    subject: Notificación de audiencia de tutela
+    date: Wed, 7 Mar 2026 15:30:00 +0000
+    body: |
+      Estimado abogado,
+
+      Le notificamos que la audiencia de su caso de tutela se ha programado para el 15 de marzo de 2026. Por favor, confirme su asistencia.
+
+      Atentamente,
+      Corte Suprema
+
+  - id: 16
+    from: soporte@example.com
+    to: cliente@example.com
+    subject: Respuesta a su PQR
+    date: Thu, 8 Mar 2026 10:00:00 +0000
+    body: |
+      Estimado cliente,
+
+      Hemos recibido su PQR sobre el servicio que prestó nuestra empresa. Queremos informarle que estamos investigando el caso y que tomaremos las medidas correctivas necesarias.
+
+      Le agradecemos por hacernos saber su experiencia.
+
+      Atentamente,
+      Equipo de soporte
+
+  - id: 17
+    from: cliente@example.com
+    to: soporte@example.com
+    subject: Solicitud de respuesta sobre PQR
+    date: Fri, 9 Mar 2026 12:00:00 +0000
+    body: |
+      Estimados,
+
+      Quisiera saber el estado de mi PQR presentado hace dos semanas. No he recibido respuesta aún y me gustaría una actualización lo antes posible.
+
+      Saludos,tutela 
+      Cliente
+
+  - id: 18
+    from: soporte@example.com
+    to: cliente@example.com
+    subject: PQR - Resolución de su solicitud
+    date: Mon, 12 Mar 2026 14:45:00 +0000
+    body: |
+      Estimado cliente,
+
+      Le informamos que hemos resuelto su PQR de acuerdo con los procedimientos internos. El asunto ha sido cerrado, pero si tiene más dudas, no dude en contactarnos.
+
+      Atentamente,
+      Equipo de soporte
+
+  - id: 19
+    from: juan.perez@example.com
+    to: maria.lopez@example.com
+    subject: Demanda sobre pago pendiente
+    date: Tue, 13 Mar 2026 09:00:00 +0000
+    body: |
+      Estimada Maria,
+
+      Lamentablemente, tuvimos que presentar una demanda por el pago pendiente de $500 que aún no ha sido recibido. Agradeceríamos su pronta respuesta para evitar mayores complicaciones legales.
+
+      Saludos cordiales,
+      Juan Pérez
+
+  - id: 20
+    from: cliente@example.com
+    to: soporte@example.com
+    subject: PQR sobre incumplimiento de servicio
+    date: Wed, 14 Mar 2026 17:00:00 +0000
+    body: |
+      Estimado equipo de soporte,
+
+      Quisiera presentar un PQR debido al incumplimiento de los términos de servicio que nuestra empresa sufrió con su producto. Solicito una pronta solución.
+
+      Atentamente,
+      Cliente
+
+  - id: 21
+    from: cliente@example.com
+    to: abogado@juridico.com
+    subject: Solicitud de asistencia en tutela laboral
+    date: Thu, 15 Mar 2026 11:20:00 +0000
+    body: |     
+      Estimado abogado,
+
+      Quisiera solicitar su asistencia en la tutela laboral contra mi ex empleador, ya que no hemos recibido el pago de indemnización correspondiente.
+
+      Saludos,
+      Cliente
+
+  - id: 22
+    from: tribunal@corte.com
+    to: abogado@juridico.com
+    subject: Audiencia de la demanda de indemnización
+    date: Fri, 16 Mar 2026 14:30:00 +0000
+    body: |
+      Estimado abogado,
+
+      Le notificamos que la audiencia para su demanda de indemnización está programada para el 20 de marzo de 2026. Por favor, confirme su asistencia.
+
+      Atentamente,
+      Corte Suprema
+  - id: 23
+    from: tribunal@corte.com
+    to: abogado@juridico.com
+    subject: Audiencia de la demanda de indemnización
+    date: Fri, 16 Mar 2026 14:30:00 +0000
+    body: |
+      Estimado abogado,
+
+      Le notificamos que la audiencia para su deMandA de indemnización está programada para el 20 de marzo de 2026. Por favor, confirme su asistencia.
+
+      Atentamente,
+      Corte Suprema
+  - id: 24
+    from: cliente@example.com
+    to: abogado@juridico.com
+    subject: Solicitud de asistencia en demanda laboral
+    date: Thu, 15 Mar 2026 11:20:00 +0000
+    mime_version: "1.0"
+    content_type: multipart/mixed
+    boundary: "BOUNDARY123"
+
+    body: |
+      Estimado abogado,
+
+      Quisiera solicitar su asistencia en la demanda laboral contra mi ex empleador, ya que no hemos recibido el pago de indemnización correspondiente.
+
+      Adjunto encontrará la documentación relacionada al caso.
+
+      Saludos,
+      Cliente
+
+    attachments:
+      - filename: tutela.pdf
+        content_type: application/pdf
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          JVBERi0xLjQKJcfsj6IKNSAwIG9iago8PAovVGl0bGUgKENvbnRyYXRvIFRyYWJham8p
+          L0F1dGhvciAoQ2xpZW50ZSk+PgplbmRvYmoK...
+
+      - filename: evidencia_despido.jpg
+        content_type: image/jpeg
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          /9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAICAgICAgICAgICAgICAgICAgICAgICAg
+          ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgP...
+
+          correos:
+  - id: 25
+    from: cliente2@example.com
+    to: abogado@juridico.com
+    subject: Consulta sobre tutela
+    date: Mon, 19 Mar 2026 09:15:00 +0000
+    body: |
+      Estimado abogado,
+      
+      Quisiera consultar sobre el avance de la tutela presentada la semana pasada.
+      Adjunto copia de los documentos enviados para su revisión.
+
+      Saludos,
+      Cliente 2
+    attachments:
+      - filename: solicitud_tutela.docx
+        content_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          UEsDBBQABgAIAAAAIQAAAA... (contenido Base64 simulado)
+
+  - id: 26
+    from: cliente3@example.com
+    to: abogado@juridico.com
+    subject: Presentación de demanda laboral
+    date: Tue, 20 Mar 2026 11:00:00 +0000
+    body: |
+      Estimado abogado,
+
+      Le envío la documentación para la demanda laboral que discutimos.
+      Por favor, revise los archivos adjuntos.
+
+      Saludos,
+      Cliente 3
+    attachments:
+      - filename: demanda_laboral.pdf
+        content_type: application/pdf
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          JVBERi0xLjQKJcfsj6IKNSAwIG9iago8PAovVGl0bGUgKENvbnRy... (contenido Base64 simulado)
+      - filename: recibos_pago.xlsx
+        content_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          UEsDBBQABgAIAAAAIQ... (contenido Base64 simulado)
+
+  - id: 27
+    from: soporte@example.com
+    to: cliente@example.com
+    subject: Respuesta a PQR sobre facturación
+    date: Wed, 21 Mar 2026 15:30:00 +0000
+    body: |
+      Estimado cliente,
+
+      Hemos revisado su PQR sobre la facturación incorrecta.
+      Adjunto encontrará el reporte con la corrección aplicada.
+
+      Atentamente,
+      Equipo de soporte
+    attachments:
+      - filename: reporte_facturacion.pdf
+        content_type: application/pdf
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          JVBERi0xLjQKJcfsj6IKNSAwIG9iago8PAovVGl0bGUgKFB... (contenido Base64 simulado)
+
+  - id: 28
+    from: tribunal@corte.com
+    to: abogado@juridico.com
+    subject: Notificación de audiencia de demanda
+    date: Thu, 22 Mar 2026 09:00:00 +0000
+    body: |
+      Estimado abogado,
+
+      La audiencia de la demanda laboral está programada para el 25 de marzo de 2026 a las 10:00 AM.
+      Adjunto encontrará la citación oficial.
+
+      Atentamente,
+      Corte Suprema
+    attachments:
+      - filename: citacion_demanda.pdf
+        content_type: application/pdf
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          JVBERi0xLjQKJcfsj6IKNSAwIG9iago8PAovVGl0bGUgKENp... (contenido Base64 simulado)
+
+  - id: 29
+    from: cliente@example.com
+    to: abogado@juridico.com
+    subject: Documentación adicional de tutela
+    date: Fri, 23 Mar 2026 13:20:00 +0000
+    body: |
+      Estimado abogado,
+
+      Le envío los documentos adicionales relacionados con la tutela de mi caso.
+      Por favor, agréguelos al expediente.
+
+      Saludos,
+      Cliente
+    attachments:
+      - filename: evidencia_tutela.jpg
+        content_type: image/jpeg
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          /9j/4AAQSkZJRgABAQEASABIAAD/... (contenido Base64 simulado)
+      - filename: informe_tutela.docx
+        content_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+        content_transfer_encoding: base64
+        content_disposition: attachment
+        content_base64: |
+          UEsDBBQABgAIAAAAIQ... (contenido Base64 simulado)
