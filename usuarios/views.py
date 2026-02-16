@@ -1,9 +1,13 @@
-from django.shortcuts import render
-from django.http import JsonResponse
-from .models import usuario
-
-def lista_usuarios(request):
-    usuarios = usuario.objects.all().values()
-    return JsonResponse(list(usuarios),safe=False)
+from rest_framework import generics
+from .models import Usuario
+from .serializers import UsuarioSerializer
 
 
+class UsuarioListCreateView(generics.ListCreateAPIView):
+    queryset = Usuario.objects.all()
+    serializer_class = UsuarioSerializer
+
+
+class UsuarioDetailView(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Usuario.objects.all()
+    serializer_class = UsuarioSerializer
